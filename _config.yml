@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My homepage"
+title                    : "Jade Shiva Edward"
 title_separator          : "-"
 name                     : "Name1 Name2"
 description              : "Name's academic homepage"
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "Jade Shiva Edward"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
-  location         : 
-  employer         : 
-  email            : "email@email.com"
+  bio              : "Assistant Director of First Year Writing"
+  location         : "University of Texas at Austin"
+  employer         : "Department of Rhetoric and Writing"
+  email            : "jadeshiva@utexas.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
